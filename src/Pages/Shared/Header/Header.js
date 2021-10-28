@@ -11,8 +11,7 @@ const Header = () => {
 
                 <Link to="/home" className="ml-2">Home</Link>
                 <Link to="/events" className="ml-2">Events</Link>
-                <Link to="/addevent" className="ml-2">Add Event</Link>
-                <Link to="/members" className="ml-2">Members</Link>
+                <Link to="/admin" className="ml-2">Admin</Link>
                 <Link to="/login" className="ml-2">Login</Link>
 
             </div>

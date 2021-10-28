@@ -8,7 +8,8 @@ const Register = () => {
                 <img className="w-60" src="https://i.ibb.co/ySRY6S5/support.png" alt="" />
             </div>
             <div className="flex justify-center">
-                <form className="w-2/4 rounded bg-gray-200 p-20">
+                <form className="w-2/4 rounded bg-gray-200 py-14 px-20">
+                    <h2 className="flex justify-center font-bold text-green-500 text-3xl pb-4">Registe as a Volunteer</h2>
                     <input className="block w-full my-4 py-4 outline-none px-3 rounded" type="text" placeholder="Full Name" />
                     <input className="block w-full my-4 py-4 outline-none px-3 rounded" type="email" name="" id="" placeholder="Email" />
                     <input className="block w-full my-4 py-4 outline-none px-3 rounded" type="date" name="" id="" placeholder="Date" />
